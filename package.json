@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://rickysoliman.github.io/simple-dall-e-clone/",
+  "homepage": "https://rickysoliman.github.io/dall-e/",
   "eslintConfig": {
     "extends": [
       "react-app",
